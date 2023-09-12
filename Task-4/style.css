@@ -1,0 +1,71 @@
+body {
+    background-color:azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+
+.container {
+    background-color:white;
+    border: 1px solid beige;
+    border-radius: 1px;
+    max-width: 600px;
+    text-align: center;    
+}
+
+.instagram-logo img{
+    width: 150px;
+    height: 150px;
+    padding-top: 170px;   
+}
+
+.login-form h1 {
+    font-size: 40px;
+    margin-bottom: 30px;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.login-form input {
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: solid lavender;
+    border-radius: 3px;
+    font-size: 18px;
+    
+}
+
+.login-form button {
+    width: 350px;
+    padding: 10px;
+    background-color: #3897f0ef;
+    color:white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.login-form p {
+    font-size: 18px;
+    margin-top: 15px;
+    color:black;
+}
+
+.signup-link button {
+    width: 300px;
+    margin-bottom: 0px;
+    background-color: white;
+    border: solid rgb(81, 125, 208);
+    font-size: 20px;
+    color: rgb(51, 104, 203);
+
+}
+.meta img{
+    width: 150px;
+    height: 50px;
+    padding-bottom: 0px;
+}
+.container h5{
+    font-size: 100px;
+}
